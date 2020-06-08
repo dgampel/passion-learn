@@ -1,0 +1,6 @@
+f = open("../blobs/my_life.txt", "r")
+#print(f.read())
+print(f.readline())
+print(f.readline())
+#print(f.readline())
+#print(f.readline())
